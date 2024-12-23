@@ -38,3 +38,10 @@ You can install the necessary libraries using the following command:
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn statsmodels numpy openpyxl
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+The dataset was sourced from Apple's annual reports and financial data.
+Thanks to the developers of pandas, matplotlib, seaborn, and statsmodels for providing the libraries that made this analysis possible.
